@@ -4,7 +4,7 @@ Hey there, I'm Elijah! Thanks for dropping by. This repository primarily showcas
 
 🤖 My Discord Bot: Dive in to see the features and functionalities I've implemented.
 
-🎮 Video Game Project: Currently in development under my game studio, TBD Studios. Stay tuned for updates!
+🏫 School Work: Check out the cool projects that I've gotten to do as a part of my education!
 
 Feel free to explore and reach out if you have any questions or just want to connect!
 
